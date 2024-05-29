@@ -1,0 +1,12 @@
+C:\Users\darkm\source\repos\img2saturn\img2saturn\bin\Debug\img2saturn.exe.config
+C:\Users\darkm\source\repos\img2saturn\img2saturn\bin\Debug\img2saturn.exe
+C:\Users\darkm\source\repos\img2saturn\img2saturn\bin\Debug\img2saturn.pdb
+C:\Users\darkm\source\repos\img2saturn\img2saturn\bin\Debug\img2saturn.xml
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.vbprojAssemblyReference.cache
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.frmMain.resources
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.Resources.resources
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.vbproj.GenerateResource.cache
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.vbproj.CoreCompileInputs.cache
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.exe
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.xml
+C:\Users\darkm\source\repos\img2saturn\img2saturn\obj\Debug\img2saturn.pdb
